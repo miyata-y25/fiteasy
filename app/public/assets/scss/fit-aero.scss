@@ -1,0 +1,320 @@
+@charset "utf-8";
+
+@import "variable";
+@import "basic/mixin";
+@import "basic/selector";
+
+
+
+//===========================================================
+.services .sub-body--fit-aero {
+  #footer{
+    margin: 0;
+}
+#content, section{
+    background-color: black;
+}
+.fit-stduio-ct-01 {
+   width: 100%!important;
+max-width: 1000px;
+padding: 0 20px!important;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.fit-stduio-ct-01 .program-img {
+    margin-top: auto;
+}
+
+.fit-ride-list-1 p, .fit-aero-list-2 p {
+    text-align: left !important;
+    padding: 10px 20px;
+    margin-left: 120px;
+}
+
+.fe-studio-inner-04 .fit-ride-list-1 span:first-child {
+    height: 100%;
+    display: inline-block;
+    width: 120px;
+    margin-left: -125px;
+    font-weight: bold;
+}
+
+.fe-studio-inner-04 .fit-ride-list-1 p span, .fe-studio-inner-04 .fit-ride-list-1 p span a {
+    display: inline-block;
+    padding: 0 15px;
+}
+
+.fe-studio-inner-04 .fit-aero-list-2 span:first-child {
+    border-right: 2px solid #00aeeb;
+    height: 100%;
+    display: inline-block;
+    width: 120px;
+    margin-left: -125px;
+    font-weight: bold;
+}
+
+.fe-studio-inner-04 .fit-aero-list-2 p span, .fe-studio-inner-04 .fit-aero-list-2 p span a {
+    color: #00aeeb;
+    display: inline-block;
+    padding: 0 15px;
+}
+.lead-txt p {
+text-align: center;
+color: #fff !important;
+padding: 24px 20px 0;
+font-size: 20px;
+max-width: 1000px;
+width: 100%;
+margin: 0 auto;
+}
+.fit-stduio-ct-01>div {
+    border: 2px solid #00aeeb;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.fit-stduio-ct-01>div p {
+    padding: 0 20px 50px;
+    text-align: justify;
+    font-feature-settings: 'palt';
+}
+
+.fit-stduio-ct-01>div>a {
+    position: relative;
+    display: block;
+    margin-top: auto;
+}
+.fe-studio-inner-04 h4:first-of-type {
+    border-bottom: 2px solid #00aeeb;
+}
+.fe-studio-inner-04 {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.lead {
+padding-top: 87px;
+max-width: 1000px;
+width: 100%;
+margin: 0 auto;
+}
+.lead-header {
+display: inline-block;
+width: 100%;
+margin: 0 auto;
+text-align: center;
+}
+.lead-header__txt {
+font-size: 32px;
+font-weight: bold;
+}
+.lead-header .lead-header__txt:first-child{
+display: inline;
+background-color: #02AEEB;
+padding: 8px 14px;
+}
+.lead-header .lead-header__txt:last-child{
+color: white;
+padding: 0 14px;
+}
+.lead-header__txt span:not(.color-black) {
+color: white;
+}
+.lead-header__txt span {
+letter-spacing: 0;
+}
+.program-title {
+text-align: center;
+max-width: 1000px;
+width: 100%;
+margin: 0 auto;
+padding-top: 120px;
+}
+
+.program-logo {
+max-width: 290px;
+}
+
+.program-title-txt{
+padding: 32px 0 32px 0;
+margin-top: 54px;
+border-top: 1px solid #02AEEB;
+}
+
+.program-title-txt p span{
+color: #02AEEB;
+display: flex;
+justify-content: center;
+}
+
+.program-title-txt p span:first-child {
+font-size: 28px;
+font-weight: bold;
+}
+
+.fade-header img{
+display: block;
+height: 110px;
+margin: 0 auto;
+padding: 30px;
+object-fit: contain;
+}
+
+.fade-footer {
+margin-top: auto;
+}
+
+.fade-footer img{
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+
+.fe-studio-banner {
+text-align: center;
+padding-bottom: 160px;
+max-width: 1000px;
+margin: 0 auto;
+margin-top: 120px;
+border-top: 2px solid #02AEEB;
+}
+
+.fe-studio-banner-title p{
+color: #02AEEB;
+font-size: 28px;
+font-weight: bold;
+margin-top: 64px;
+}
+
+.fe-studio-banner-img{
+padding-top: 32px;
+}
+
+.fe-studio-banner-img img{
+width: 100%;
+}
+
+
+/* color */
+.color-black {
+color: #333;
+}
+/* サイズ別display */
+.u-hide-pc-tb{
+display: none;
+}
+.img-hide-pc {
+display: none;
+}
+.img-hide-sp {
+display: block;
+}
+
+@media screen and (max-width: 768px) {
+.fit-stduio-ct-01 {
+  margin: 0;
+  padding: 0 18px!important;
+}
+.program-title hr {
+  margin: 0 0 32px 0;
+  border: 1px solid #02AEEB;
+}
+.lead-header {
+  padding: 0px 20px 0;
+  width: 100%;
+}
+.lead-header__txt span {
+  font-size: 28px;
+}
+.lead-txt p {
+  font-size: 18px;
+  width: 100%;
+}
+.lead-header__txt:last-child {
+  line-height: 1.3;
+}
+.lead-header__txt:last-child span{
+  padding: 0;
+  letter-spacing: 0;
+}
+.fe-studio-banner-img {
+  padding: 32px  0 40px;
+}
+.fe-studio-banner-img-sp {
+  display: block;
+}
+.fe-studio-banner-img-pc {
+  display: none;
+}
+.fit-stduio-ct-01>div>a img {
+  width: 100%;
+}
+
+.program-title{
+  padding: 80px 20px 20px 20px;
+  width: 100%;
+}
+.program-logo {
+  max-width: 210px;
+  padding-bottom: 20px;
+}
+.fit-stduio-ct-01>div + div{
+  margin-top: 60px;
+}
+.fe-studio-banner {
+  max-width: unset;
+  margin: 90px 20px 0;
+  padding: 0 0 120px;
+}
+.fe-studio-banner-title {
+  margin-top: 0px;
+}
+.u-hide-pc-tb{
+  display: block;
+}
+.img-hide-pc {
+  display: block;
+}
+.img-hide-sp {
+  display: none;
+}
+
+}
+.fit-ride-list-1 p, .fit-aero-list-2 p {
+  text-align: left !important;
+  padding: 10px 20px;
+  margin-left: 120px;
+}
+
+.fe-studio-inner-04 .fit-ride-list-1 span:first-child {
+  height: 100%;
+  display: inline-block;
+  width: 120px;
+  margin-left: -125px;
+font-weight: bold;
+}
+
+.fe-studio-inner-04 .fit-ride-list-1 p span, .fe-studio-inner-04 .fit-ride-list-1 p span a {
+  display: inline-block;
+padding: 0 15px;
+}
+
+.fe-studio-inner-04 .fit-aero-list-2 span:first-child {
+  border-right: 2px solid #00aeeb;
+  height: 100%;
+  display: inline-block;
+  width: 120px;
+  margin-left: -125px;
+font-weight: bold;
+}
+
+.fe-studio-inner-04 .fit-aero-list-2 p span, .fe-studio-inner-04 .fit-aero-list-2 p span a {
+  color: #00aeeb;
+  display: inline-block;
+padding: 0 15px;
+}
+
+}
+
+

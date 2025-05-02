@@ -1,0 +1,307 @@
+@charset "UTF-8";
+.services .sub-body--fit-aero {
+  /* color */
+  /* サイズ別display */
+}
+.services .sub-body--fit-aero #footer {
+  margin: 0;
+}
+.services .sub-body--fit-aero #content, .services .sub-body--fit-aero section {
+  background-color: black;
+}
+.services .sub-body--fit-aero .fit-stduio-ct-01 {
+  width: 100% !important;
+  max-width: 1000px;
+  padding: 0 20px !important;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.services .sub-body--fit-aero .fit-stduio-ct-01 .program-img {
+  margin-top: auto;
+}
+.services .sub-body--fit-aero .fit-ride-list-1 p, .services .sub-body--fit-aero .fit-aero-list-2 p {
+  text-align: left !important;
+  padding: 10px 20px;
+  margin-left: 120px;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 .fit-ride-list-1 span:first-child {
+  height: 100%;
+  display: inline-block;
+  width: 120px;
+  margin-left: -125px;
+  font-weight: bold;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 .fit-ride-list-1 p span, .services .sub-body--fit-aero .fe-studio-inner-04 .fit-ride-list-1 p span a {
+  display: inline-block;
+  padding: 0 15px;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 .fit-aero-list-2 span:first-child {
+  border-right: 2px solid #00aeeb;
+  height: 100%;
+  display: inline-block;
+  width: 120px;
+  margin-left: -125px;
+  font-weight: bold;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 .fit-aero-list-2 p span, .services .sub-body--fit-aero .fe-studio-inner-04 .fit-aero-list-2 p span a {
+  color: #00aeeb;
+  display: inline-block;
+  padding: 0 15px;
+}
+.services .sub-body--fit-aero .lead-txt p {
+  text-align: center;
+  color: #fff !important;
+  padding: 24px 20px 0;
+  font-size: 20px;
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+}
+.services .sub-body--fit-aero .fit-stduio-ct-01 > div {
+  border: 2px solid #00aeeb;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.services .sub-body--fit-aero .fit-stduio-ct-01 > div p {
+  padding: 0 20px 50px;
+  text-align: justify;
+  -webkit-font-feature-settings: "palt";
+          font-feature-settings: "palt";
+}
+.services .sub-body--fit-aero .fit-stduio-ct-01 > div > a {
+  position: relative;
+  display: block;
+  margin-top: auto;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 h4:first-of-type {
+  border-bottom: 2px solid #00aeeb;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+.services .sub-body--fit-aero .lead {
+  padding-top: 87px;
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+}
+.services .sub-body--fit-aero .lead-header {
+  display: inline-block;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.services .sub-body--fit-aero .lead-header__txt {
+  font-size: 32px;
+  font-weight: bold;
+}
+.services .sub-body--fit-aero .lead-header .lead-header__txt:first-child {
+  display: inline;
+  background-color: #02AEEB;
+  padding: 8px 14px;
+}
+.services .sub-body--fit-aero .lead-header .lead-header__txt:last-child {
+  color: white;
+  padding: 0 14px;
+}
+.services .sub-body--fit-aero .lead-header__txt span:not(.color-black) {
+  color: white;
+}
+.services .sub-body--fit-aero .lead-header__txt span {
+  letter-spacing: 0;
+}
+.services .sub-body--fit-aero .program-title {
+  text-align: center;
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 120px;
+}
+.services .sub-body--fit-aero .program-logo {
+  max-width: 290px;
+}
+.services .sub-body--fit-aero .program-title-txt {
+  padding: 32px 0 32px 0;
+  margin-top: 54px;
+  border-top: 1px solid #02AEEB;
+}
+.services .sub-body--fit-aero .program-title-txt p span {
+  color: #02AEEB;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.services .sub-body--fit-aero .program-title-txt p span:first-child {
+  font-size: 28px;
+  font-weight: bold;
+}
+.services .sub-body--fit-aero .fade-header img {
+  display: block;
+  height: 110px;
+  margin: 0 auto;
+  padding: 30px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.services .sub-body--fit-aero .fade-footer {
+  margin-top: auto;
+}
+.services .sub-body--fit-aero .fade-footer img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.services .sub-body--fit-aero .fe-studio-banner {
+  text-align: center;
+  padding-bottom: 160px;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 120px;
+  border-top: 2px solid #02AEEB;
+}
+.services .sub-body--fit-aero .fe-studio-banner-title p {
+  color: #02AEEB;
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 64px;
+}
+.services .sub-body--fit-aero .fe-studio-banner-img {
+  padding-top: 32px;
+}
+.services .sub-body--fit-aero .fe-studio-banner-img img {
+  width: 100%;
+}
+.services .sub-body--fit-aero .color-black {
+  color: #333;
+}
+.services .sub-body--fit-aero .u-hide-pc-tb {
+  display: none;
+}
+.services .sub-body--fit-aero .img-hide-pc {
+  display: none;
+}
+.services .sub-body--fit-aero .img-hide-sp {
+  display: block;
+}
+@media screen and (max-width: 768px) {
+  .services .sub-body--fit-aero .fit-stduio-ct-01 {
+    margin: 0;
+    padding: 0 18px !important;
+  }
+  .services .sub-body--fit-aero .program-title hr {
+    margin: 0 0 32px 0;
+    border: 1px solid #02AEEB;
+  }
+  .services .sub-body--fit-aero .lead-header {
+    padding: 0px 20px 0;
+    width: 100%;
+  }
+  .services .sub-body--fit-aero .lead-header__txt span {
+    font-size: 28px;
+  }
+  .services .sub-body--fit-aero .lead-txt p {
+    font-size: 18px;
+    width: 100%;
+  }
+  .services .sub-body--fit-aero .lead-header__txt:last-child {
+    line-height: 1.3;
+  }
+  .services .sub-body--fit-aero .lead-header__txt:last-child span {
+    padding: 0;
+    letter-spacing: 0;
+  }
+  .services .sub-body--fit-aero .fe-studio-banner-img {
+    padding: 32px 0 40px;
+  }
+  .services .sub-body--fit-aero .fe-studio-banner-img-sp {
+    display: block;
+  }
+  .services .sub-body--fit-aero .fe-studio-banner-img-pc {
+    display: none;
+  }
+  .services .sub-body--fit-aero .fit-stduio-ct-01 > div > a img {
+    width: 100%;
+  }
+  .services .sub-body--fit-aero .program-title {
+    padding: 80px 20px 20px 20px;
+    width: 100%;
+  }
+  .services .sub-body--fit-aero .program-logo {
+    max-width: 210px;
+    padding-bottom: 20px;
+  }
+  .services .sub-body--fit-aero .fit-stduio-ct-01 > div + div {
+    margin-top: 60px;
+  }
+  .services .sub-body--fit-aero .fe-studio-banner {
+    max-width: unset;
+    margin: 90px 20px 0;
+    padding: 0 0 120px;
+  }
+  .services .sub-body--fit-aero .fe-studio-banner-title {
+    margin-top: 0px;
+  }
+  .services .sub-body--fit-aero .u-hide-pc-tb {
+    display: block;
+  }
+  .services .sub-body--fit-aero .img-hide-pc {
+    display: block;
+  }
+  .services .sub-body--fit-aero .img-hide-sp {
+    display: none;
+  }
+}
+.services .sub-body--fit-aero .fit-ride-list-1 p, .services .sub-body--fit-aero .fit-aero-list-2 p {
+  text-align: left !important;
+  padding: 10px 20px;
+  margin-left: 120px;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 .fit-ride-list-1 span:first-child {
+  height: 100%;
+  display: inline-block;
+  width: 120px;
+  margin-left: -125px;
+  font-weight: bold;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 .fit-ride-list-1 p span, .services .sub-body--fit-aero .fe-studio-inner-04 .fit-ride-list-1 p span a {
+  display: inline-block;
+  padding: 0 15px;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 .fit-aero-list-2 span:first-child {
+  border-right: 2px solid #00aeeb;
+  height: 100%;
+  display: inline-block;
+  width: 120px;
+  margin-left: -125px;
+  font-weight: bold;
+}
+.services .sub-body--fit-aero .fe-studio-inner-04 .fit-aero-list-2 p span, .services .sub-body--fit-aero .fe-studio-inner-04 .fit-aero-list-2 p span a {
+  color: #00aeeb;
+  display: inline-block;
+  padding: 0 15px;
+}

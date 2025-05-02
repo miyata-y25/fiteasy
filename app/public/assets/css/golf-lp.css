@@ -1,0 +1,1298 @@
+@charset "UTF-8";
+.services .sub-body--fit-golf {
+  /* CSS Document */
+  /* ==================================================
+  Mixin
+  ================================================== */
+  /*
+   * Easing function
+   * Original：http://easings.net/
+   */
+  /* ==================================================
+  Foundation
+  ================================================== */
+  /* 
+  html5doctor.com Reset Stylesheet
+  v1.6.1
+  Last Updated: 2010-09-17
+  Author: Richard Clark - http://richclarkdesign.com 
+  Twitter: @rich_clark
+  */
+  @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+  /* change colours to suit your needs */
+  /* change colours to suit your needs */
+  /* change border colour to suit your needs */
+  /* append */
+  /* hide */
+  /*
+  common
+  */
+  /* mainvisual
+  =================================*/
+  /* about
+  =================================*/
+  /* start
+  =================================*/
+  /* faq
+  =================================*/
+  /*
+  accordion
+  */
+  /* recommend
+  =================================*/
+  /* showroom
+  =================================*/
+  /*
+  promotion
+  */
+  /*
+  導入店舗一覧 20230517
+  */
+
+}
+.services .sub-body--fit-golf html, .services .sub-body--fit-golf body, .services .sub-body--fit-golf div, .services .sub-body--fit-golf span, .services .sub-body--fit-golf object, .services .sub-body--fit-golf iframe,
+.services .sub-body--fit-golf h1, .services .sub-body--fit-golf h2, .services .sub-body--fit-golf h3, .services .sub-body--fit-golf h4, .services .sub-body--fit-golf h5, .services .sub-body--fit-golf h6, .services .sub-body--fit-golf p, .services .sub-body--fit-golf blockquote, .services .sub-body--fit-golf pre,
+.services .sub-body--fit-golf abbr, .services .sub-body--fit-golf address, .services .sub-body--fit-golf cite, .services .sub-body--fit-golf code,
+.services .sub-body--fit-golf del, .services .sub-body--fit-golf dfn, .services .sub-body--fit-golf em, .services .sub-body--fit-golf img, .services .sub-body--fit-golf ins, .services .sub-body--fit-golf kbd, .services .sub-body--fit-golf q, .services .sub-body--fit-golf samp,
+.services .sub-body--fit-golf small, .services .sub-body--fit-golf strong, .services .sub-body--fit-golf sub, .services .sub-body--fit-golf sup, .services .sub-body--fit-golf var,
+.services .sub-body--fit-golf b, .services .sub-body--fit-golf i,
+.services .sub-body--fit-golf dl, .services .sub-body--fit-golf dt, .services .sub-body--fit-golf dd, .services .sub-body--fit-golf ol, .services .sub-body--fit-golf ul, .services .sub-body--fit-golf li,
+.services .sub-body--fit-golf fieldset, .services .sub-body--fit-golf form, .services .sub-body--fit-golf label, .services .sub-body--fit-golf legend,
+.services .sub-body--fit-golf table, .services .sub-body--fit-golf caption, .services .sub-body--fit-golf tbody, .services .sub-body--fit-golf tfoot, .services .sub-body--fit-golf thead, .services .sub-body--fit-golf tr, .services .sub-body--fit-golf th, .services .sub-body--fit-golf td,
+.services .sub-body--fit-golf article, .services .sub-body--fit-golf aside, .services .sub-body--fit-golf canvas, .services .sub-body--fit-golf details, .services .sub-body--fit-golf figcaption, .services .sub-body--fit-golf figure,
+.services .sub-body--fit-golf footer, .services .sub-body--fit-golf header, .services .sub-body--fit-golf hgroup, .services .sub-body--fit-golf menu, .services .sub-body--fit-golf nav, .services .sub-body--fit-golf section, .services .sub-body--fit-golf summary,
+.services .sub-body--fit-golf time, .services .sub-body--fit-golf mark, .services .sub-body--fit-golf audio, .services .sub-body--fit-golf video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+.services .sub-body--fit-golf body {
+  line-height: 1;
+}
+.services .sub-body--fit-golf article, .services .sub-body--fit-golf aside, .services .sub-body--fit-golf details, .services .sub-body--fit-golf figcaption, .services .sub-body--fit-golf figure,
+.services .sub-body--fit-golf footer, .services .sub-body--fit-golf header, .services .sub-body--fit-golf hgroup, .services .sub-body--fit-golf menu, .services .sub-body--fit-golf nav, .services .sub-body--fit-golf section {
+  display: block;
+}
+.services .sub-body--fit-golf nav ul {
+  list-style: none;
+}
+.services .sub-body--fit-golf blockquote, .services .sub-body--fit-golf q {
+  quotes: none;
+}
+.services .sub-body--fit-golf blockquote:before, .services .sub-body--fit-golf blockquote:after,
+.services .sub-body--fit-golf q:before, .services .sub-body--fit-golf q:after {
+  content: "";
+  content: none;
+}
+.services .sub-body--fit-golf a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+.services .sub-body--fit-golf ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+.services .sub-body--fit-golf mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+.services .sub-body--fit-golf del {
+  text-decoration: line-through;
+}
+.services .sub-body--fit-golf abbr[title], .services .sub-body--fit-golf dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help;
+}
+.services .sub-body--fit-golf table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.services .sub-body--fit-golf hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #cccccc;
+  margin: 1em 0;
+  padding: 0;
+}
+.services .sub-body--fit-golf input, .services .sub-body--fit-golf select {
+  vertical-align: middle;
+}
+.services .sub-body--fit-golf html {
+  font-size: 62.5%;
+}
+.services .sub-body--fit-golf body {
+  line-height: 1.5;
+  font-family: "ヒラギノ角ゴ Pro W3", "メイリオ", Meiryo, sans-serif;
+  font-size: 1.4em;
+  color: #000;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "palt" 1;
+          font-feature-settings: "palt" 1;
+  -webkit-font-variant-ligatures: none;
+          font-variant-ligatures: none;
+}
+.services .sub-body--fit-golf input, .services .sub-body--fit-golf textarea, .services .sub-body--fit-golf code, .services .sub-body--fit-golf select, .services .sub-body--fit-golf button {
+  line-height: 1.5;
+  font-family: "ヒラギノ角ゴ Pro W3", "メイリオ", Meiryo, sans-serif;
+  font-size: 1em;
+  color: #000;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "palt" 1;
+          font-feature-settings: "palt" 1;
+  -webkit-font-variant-ligatures: none;
+          font-variant-ligatures: none;
+}
+.services .sub-body--fit-golf *,
+.services .sub-body--fit-golf *::before,
+.services .sub-body--fit-golf *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.services .sub-body--fit-golf ul,
+.services .sub-body--fit-golf ol {
+  list-style: none;
+}
+.services .sub-body--fit-golf input, .services .sub-body--fit-golf textarea, .services .sub-body--fit-golf code, .services .sub-body--fit-golf select, .services .sub-body--fit-golf button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  vertical-align: middle;
+  border: none;
+  background: none;
+}
+.services .sub-body--fit-golf img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: top;
+}
+.services .sub-body--fit-golf em {
+  font-style: normal;
+}
+.services .sub-body--fit-golf hr {
+  margin: 0;
+}
+.services .sub-body--fit-golf sup,
+.services .sub-body--fit-golf sub {
+  position: relative;
+  line-height: 0;
+  font-size: 75%;
+}
+.services .sub-body--fit-golf sup {
+  top: -0.5em;
+}
+.services .sub-body--fit-golf sub {
+  bottom: -0.25em;
+}
+.services .sub-body--fit-golf [tabindex="-1"]:focus {
+  outline: 0;
+}
+.services .sub-body--fit-golf [aria-hidden=true] {
+  display: none !important;
+}
+.services .sub-body--fit-golf .u-hide {
+  display: none;
+}
+@media all and (min-width: 1025px) {
+  .services .sub-body--fit-golf .u-hide-pc {
+    display: none;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .u-hide-pc-tb {
+    display: none;
+  }
+}
+@media all and (min-width: 768px) and (max-width: 1024px) {
+  .services .sub-body--fit-golf .u-hide-tb {
+    display: none;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .services .sub-body--fit-golf .u-hide-tb-sp {
+    display: none;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .u-hide-sp {
+    display: none;
+  }
+}
+.services .sub-body--fit-golf .lp_pcb, .services .sub-body--fit-golf .lp_spb {
+  display: none;
+}
+.services .sub-body--fit-golf .container,
+.services .sub-body--fit-golf .container *,
+.services .sub-body--fit-golf .container > * {
+  font-family: "Noto Sans JP", sans-serif;
+  line-height: 1.5;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .container {
+    margin-top: 30px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .container {
+    margin-top: 24px;
+  }
+}
+.services .sub-body--fit-golf section {
+  width: 100%;
+}
+.services .sub-body--fit-golf .container .container-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  width: 100%;
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .container .container-inner {
+    padding: 0 1.5em;
+  }
+}
+.services .sub-body--fit-golf .floating__button {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, 25%);
+          transform: translate(-50%, 25%);
+  z-index: 5;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .floating__button {
+    max-width: 50%;
+    width: 20%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .floating__button {
+    max-width: 70%;
+    width: 100%;
+  }
+}
+.services .sub-body--fit-golf .floating__button.fixed {
+  position: fixed;
+  -webkit-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
+  bottom: 0;
+  top: inherit;
+}
+.services .sub-body--fit-golf .floating__button a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.services .sub-body--fit-golf .mainvisual {
+  position: relative;
+}
+.services .sub-body--fit-golf .mainvisual__sub {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .mainvisual__sub--item {
+    width: 33.333333%;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .about-fit-golf {
+    padding: 4.64286em 0 5.35714em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .about-fit-golf {
+    padding: 2.14286em 0 2.71429em;
+  }
+}
+.services .sub-body--fit-golf .about-fit-golf__head {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .about-fit-golf__logo {
+    width: 20%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .about-fit-golf__logo {
+    width: 30%;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .about-fit-golf__desc {
+    margin-left: 3.21429em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .about-fit-golf__desc {
+    margin-left: 1.92857em;
+  }
+}
+.services .sub-body--fit-golf .about-fit-golf__desc > p {
+  font-weight: 900;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .about-fit-golf__desc > p {
+    font-size: 3.6rem;
+  }
+}
+.services .sub-body--fit-golf .about-fit-golf__list > li {
+  position: relative;
+  font-weight: 700;
+  padding-left: 1.5em;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .about-fit-golf__list > li {
+    font-size: 2.5rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .about-fit-golf__list > li {
+    letter-spacing: -0.05em;
+  }
+}
+.services .sub-body--fit-golf .about-fit-golf__list > li:before {
+  content: "";
+  display: block;
+  width: 1em;
+  height: 1em;
+  position: absolute;
+  left: 0;
+  top: 0.3em;
+  background: url(../img/services/fit-golf/icon_checkbox.svg) no-repeat center/contain;
+}
+.services .sub-body--fit-golf .about-fit-golf__list > li strong {
+  color: #c30d23;
+  font-weight: 700;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .about-fit-golf__body {
+    max-width: 720px;
+    margin: 4.64286em auto 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .about-fit-golf__body {
+    padding: 2.14286em 0 0;
+  }
+}
+.services .sub-body--fit-golf .about-fit-golf__body > p {
+  font-weight: 400;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .about-fit-golf__body > p {
+    font-size: 3rem;
+    letter-spacing: 0.01em;
+  }
+}
+.services .sub-body--fit-golf .golf-start {
+  background-color: #ebf4ec;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start {
+    padding: 5.35714em 0 0;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start {
+    padding: 3.21429em 0 0;
+  }
+}
+.services .sub-body--fit-golf .golf-start h2 {
+  text-align: center;
+  font-weight: 900;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start h2 {
+    font-size: 5.8rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start h2 {
+    font-size: 3rem;
+    letter-spacing: -0.03em;
+  }
+}
+.services .sub-body--fit-golf .golf-start-section {
+  position: relative;
+  background-color: #fff;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-section {
+    padding-bottom: 7.85714em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-section {
+    padding-bottom: 2.85714em;
+  }
+}
+.services .sub-body--fit-golf .golf-start-section h3 {
+  position: absolute;
+  left: 50%;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-section h3 {
+    width: 100%;
+    top: 25%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-section h3 {
+    top: 0;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-section._01 h3 {
+    max-width: 30%;
+    -webkit-transform: translate(-50%, -25%);
+            transform: translate(-50%, -25%);
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-section._01 h3 {
+    width: 50%;
+    -webkit-transform: translate(-50%, 5%);
+            transform: translate(-50%, 5%);
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-section._02 h3 {
+    max-width: 50%;
+    -webkit-transform: translate(-50%, 25%);
+            transform: translate(-50%, 25%);
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-section._02 h3 {
+    width: 80%;
+    -webkit-transform: translate(-50%, 45%);
+            transform: translate(-50%, 45%);
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-section._03 h3 {
+    max-width: 30%;
+    -webkit-transform: translate(-50%, 25%);
+            transform: translate(-50%, 25%);
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-section._03 h3 {
+    width: 50%;
+    -webkit-transform: translate(-50%, 50%);
+            transform: translate(-50%, 50%);
+  }
+}
+.services .sub-body--fit-golf .golf-start-section-bg__fig {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  position: relative;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-section-bg__fig > div {
+    width: 33.33333%;
+  }
+  .services .sub-body--fit-golf .golf-start-section-bg__fig > div:first-of-type {
+    width: 100%;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start__head {
+    max-width: 50%;
+    margin: 7.14286em auto 3.57143em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start__head {
+    margin-top: 3.57143em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-point {
+    padding: 0 0 4.5em;
+  }
+}
+.services .sub-body--fit-golf .golf-start-point__image {
+  width: 100%;
+  margin: 0 auto;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-point__image {
+    max-width: 30%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-point__image {
+    max-width: 50%;
+    padding: 2em 0 3.57143em;
+  }
+}
+.services .sub-body--fit-golf .golf-start-point__list {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-point__list {
+    margin: 4.64286em 0 5.71429em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-point__list {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-point__list > li {
+    width: 25%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-point__list > li {
+    width: 70%;
+  }
+  .services .sub-body--fit-golf .golf-start-point__list > li + li {
+    margin-top: 2.85714em;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start__fig {
+    margin-bottom: 5.71429em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start__fig {
+    padding: 0 3em;
+    margin-bottom: 2.5em;
+  }
+}
+.services .sub-body--fit-golf .golf-start__lead {
+  text-align: center;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start__lead {
+    margin: 6em 0 3.92857em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start__lead {
+    margin: 2.5em 0 2.35714em;
+  }
+}
+.services .sub-body--fit-golf .golf-start__lead > * {
+  letter-spacing: -0.03em;
+}
+.services .sub-body--fit-golf .golf-start__lead > ._large {
+  color: #129044;
+  font-weight: 700;
+  margin-bottom: 1.07143em;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start__lead > ._large {
+    font-size: 3.6rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start__lead > ._large {
+    font-size: 1.8rem;
+  }
+}
+.services .sub-body--fit-golf .golf-start__lead > ._small {
+  font-weight: 400;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start__lead > ._small {
+    font-size: 3rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start__lead > ._small {
+    font-size: 1.3rem;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-desc__list > li + li {
+    margin-top: 1.42857em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-desc__list > li + li {
+    margin-top: 0.71429em;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-desc__list._security > li + li {
+    margin-top: 4.14286em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-desc__list._security > li + li {
+    margin-top: 1.78571em;
+  }
+}
+.services .sub-body--fit-golf .faq-section {
+  background-color: #009644;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .faq-section {
+    padding: 2.85714em 0 7.28571em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .faq-section {
+    padding: 1.42857em 0 3.64286em;
+  }
+}
+.services .sub-body--fit-golf .faq-section h2 {
+  text-align: center;
+  font-weight: 700;
+  color: #fff;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .faq-section h2 {
+    font-size: 2.7rem;
+    margin-bottom: 1.5em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .faq-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.85714em;
+  }
+}
+.services .sub-body--fit-golf .faq-accordion + .faq-accordion {
+  margin-top: 0.9375em;
+}
+.services .sub-body--fit-golf .faq-accordion__header {
+  border: 2px solid #fff;
+  color: #fff;
+  font-weight: 700;
+  position: relative;
+  z-index: 1;
+  cursor: pointer;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .faq-accordion__header {
+    font-size: 2.2rem;
+    padding: 1.28571em 1.42857em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .faq-accordion__header {
+    font-size: 1.2rem;
+    padding: 0.64286em 1.42857em;
+  }
+}
+.services .sub-body--fit-golf .faq-accordion__header.open .icon {
+  -webkit-transform: rotate(-360deg);
+          transform: rotate(-360deg);
+}
+.services .sub-body--fit-golf .faq-accordion__header.open .icon > i:before {
+  content: none;
+}
+.services .sub-body--fit-golf .faq-accordion__header.open .icon > i:after {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.services .sub-body--fit-golf .faq-accordion .icon {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  border-radius: 50%;
+  background-color: #fff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .faq-accordion .icon {
+    margin-top: -20px;
+    width: 40px;
+    height: 40px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .faq-accordion .icon {
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+  }
+}
+.services .sub-body--fit-golf .faq-accordion .icon > i {
+  display: block;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
+  position: relative;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .faq-accordion .icon > i {
+    width: 18px;
+    height: 18px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .faq-accordion .icon > i {
+    width: 8px;
+    height: 8px;
+  }
+}
+.services .sub-body--fit-golf .faq-accordion .icon > i:before, .services .sub-body--fit-golf .faq-accordion .icon > i:after {
+  content: "";
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #009644;
+  position: absolute;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .faq-accordion .icon > i:before, .services .sub-body--fit-golf .faq-accordion .icon > i:after {
+    width: 18px;
+    height: 4px;
+    top: 7px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .faq-accordion .icon > i:before, .services .sub-body--fit-golf .faq-accordion .icon > i:after {
+    width: 8px;
+    height: 2px;
+    top: 3px;
+  }
+}
+.services .sub-body--fit-golf .faq-accordion .icon > i:before {
+  top: 0;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .faq-accordion .icon > i:before {
+    left: 7px;
+    width: 4px;
+    height: 18px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .faq-accordion .icon > i:before {
+    width: 2px;
+    height: 8px;
+    left: 3px;
+  }
+}
+.services .sub-body--fit-golf .faq-accordion__inner {
+  display: none;
+  font-weight: 700;
+  background-color: #fff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .faq-accordion__inner {
+    padding: 1.28571em 1.42857em;
+    font-size: 2.2rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .faq-accordion__inner {
+    font-size: 1.2rem;
+    padding: 0.64286em 1.42857em;
+  }
+}
+.services .sub-body--fit-golf .faq-accordion__inner .icon {
+  height: 300px;
+}
+.services .sub-body--fit-golf .faq-accordion__inner .faq-accordion__text {
+  margin: 0;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-recommend {
+    padding: 6.14286em 0 6.42857em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-recommend {
+    padding: 2.5em 0 2.85714em;
+  }
+}
+.services .sub-body--fit-golf .golf-start-recommend h3 {
+  width: 100%;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-recommend h3 {
+    max-width: 40%;
+    margin: 0 auto 3.92857em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-recommend h3 {
+    max-width: 65%;
+    margin: 0 auto 1.78571em;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item._worries .golf-start-recommend-faq-item__comment {
+    background: url(../img/services/fit-golf/pc/bg_balloon01.svg) no-repeat center/cover;
+    margin-left: 2em;
+    padding: 2em;
+    width: 447px;
+    height: 170px;
+    margin-bottom: 2em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item._worries .golf-start-recommend-faq-item__comment {
+    background: url(../img/services/fit-golf/sp/bg_balloon01.svg) no-repeat center/contain;
+    margin-left: 0.65em;
+    width: 290px;
+    /*height: 85px;
+    padding: 1em; */
+    margin-bottom: 1em;
+    height: 105px;
+    padding: 1em;
+    padding-left: 2em;
+  }
+}
+@media screen and (max-width: 480px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item._worries .golf-start-recommend-faq-item__comment {
+    padding-left: 1em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item._solution {
+    margin-bottom: 1em;
+  }
+}
+.services .sub-body--fit-golf .golf-start-recommend-faq-item._solution .golf-start-recommend-faq-item__comment {
+  position: relative;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item._solution .golf-start-recommend-faq-item__comment {
+    background: url(../img/services/fit-golf/pc/bg_balloon02.svg) no-repeat center/cover;
+    width: 735px;
+    height: 223px;
+    margin: -1em auto 0;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item._solution .golf-start-recommend-faq-item__comment {
+    background: url(../img/services/fit-golf/sp/bg_balloon02.svg) no-repeat center/contain;
+    width: 320px;
+    height: 105px;
+    margin: -1em auto 0;
+  }
+}
+.services .sub-body--fit-golf .golf-start-recommend-faq-item._solution .golf-start-recommend-faq-item__comment > p {
+  letter-spacing: -0.02em;
+  font-weight: 900;
+  text-align: center;
+  -webkit-text-decoration: underline #009644;
+  text-decoration: underline #009644;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item._solution .golf-start-recommend-faq-item__comment > p {
+    font-size: 2.8rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item._solution .golf-start-recommend-faq-item__comment > p {
+    font-size: 1.4rem;
+  }
+}
+.services .sub-body--fit-golf .golf-start-recommend-faq-item__inner {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item__fig {
+    width: 20%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item__fig {
+    width: 40%;
+    padding-left: 1em;
+  }
+}
+.services .sub-body--fit-golf .golf-start-recommend-faq-item__comment {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  font-weight: 300;
+}
+.services .sub-body--fit-golf .golf-start-recommend-faq-item__comment > p {
+  width: 100%;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item__comment > p {
+    font-size: 2.4rem;
+    letter-spacing: -0.01em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item__comment > p {
+    font-size: 1.2rem;
+    letter-spacing: -0.05em;
+  }
+}
+.services .sub-body--fit-golf .golf-start-recommend-faq-item__comment > span {
+  color: #009644;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item__comment > span {
+    font-size: 2rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .golf-start-recommend-faq-item__comment > span {
+    font-size: 1rem;
+  }
+}
+.services .sub-body--fit-golf .showroom-section {
+  background-color: #ebf4ec;
+  margin-bottom: -60px;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-section {
+    padding: 4.28571em 0 5.57143em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom-section {
+    padding: 2em 0 2.5em;
+  }
+}
+.services .sub-body--fit-golf .showroom-section h2 {
+  text-align: center;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-section h2 {
+    font-size: 3.2rem;
+    margin-bottom: 1.14286em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom-section h2 {
+    font-size: 1.6rem;
+    margin-bottom: 0.57143em;
+  }
+}
+.services .sub-body--fit-golf .showroom-address {
+  background-color: #fff;
+  text-align: center;
+}
+.services .sub-body--fit-golf .showroom-address + .showroom-address {
+  margin-top: 2.85714em;
+}
+.services .sub-body--fit-golf .showroom-address__head {
+  font-weight: 400;
+  line-height: 1;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-address__head {
+    padding: 2.71429em 0 2.14286em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom-address__head {
+    padding: 1.35714em 0 1.07143em;
+  }
+}
+.services .sub-body--fit-golf .showroom-address__head._introduction {
+  position: relative;
+}
+.services .sub-body--fit-golf .showroom-address__head._introduction:before {
+  content: "";
+  display: block;
+  background-image: url(../img/services/fit-golf/icon_introduction.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-address__head._introduction:before {
+    width: 9.28571em;
+    height: 9.28571em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom-address__head._introduction:before {
+    width: 4.64286em;
+    height: 4.64286em;
+  }
+}
+.services .sub-body--fit-golf .showroom-address__head > * {
+  display: block;
+}
+.services .sub-body--fit-golf .showroom-address__head > ._name {
+  color: #129044;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-address__head > ._name {
+    font-size: 3.5rem;
+    margin-bottom: 0.85714em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom-address__head > ._name {
+    font-size: 1.6rem;
+    margin-bottom: 1.07143em;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-address__head > ._address {
+    font-size: 2.6rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom-address__head > ._address {
+    font-size: 1.2rem;
+  }
+}
+.services .sub-body--fit-golf .showroom-address__body {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.services .sub-body--fit-golf .showroom-address__link {
+  width: 50%;
+}
+.services .sub-body--fit-golf .showroom-address__link > a {
+  padding: 1.07143em 0;
+  font-weight: 500;
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-address__link > a {
+    font-size: 2.3rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom-address__link > a {
+    font-size: 1rem;
+  }
+}
+.services .sub-body--fit-golf .showroom-address__link > a._shop {
+  background-color: #129044;
+  border: 2px solid #129044;
+}
+.services .sub-body--fit-golf .showroom-address__link > a._shop > span:after {
+  border-color: #129044;
+}
+.services .sub-body--fit-golf .showroom-address__link > a._join {
+  background-color: #c30d23;
+  border: 2px solid #c30d23;
+}
+.services .sub-body--fit-golf .showroom-address__link > a._join > span:after {
+  border-color: #c30d23;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-address__link > a:hover {
+    background-color: #fff;
+  }
+  .services .sub-body--fit-golf .showroom-address__link > a._shop:hover > span {
+    color: #129044;
+  }
+  .services .sub-body--fit-golf .showroom-address__link > a._shop:hover > span:before {
+    background-color: #129044;
+  }
+  .services .sub-body--fit-golf .showroom-address__link > a._shop:hover > span:after {
+    border-color: #fff;
+  }
+  .services .sub-body--fit-golf .showroom-address__link > a._join:hover > span {
+    color: #c30d23;
+  }
+  .services .sub-body--fit-golf .showroom-address__link > a._join:hover > span:before {
+    background-color: #c30d23;
+  }
+  .services .sub-body--fit-golf .showroom-address__link > a._join:hover > span:after {
+    border-color: #fff;
+  }
+}
+.services .sub-body--fit-golf .showroom-address__link > a > span {
+  position: relative;
+  color: #fff;
+}
+.services .sub-body--fit-golf .showroom-address__link > a > span:before, .services .sub-body--fit-golf .showroom-address__link > a > span:after {
+  content: "";
+  display: block;
+  position: absolute;
+}
+.services .sub-body--fit-golf .showroom-address__link > a > span:before {
+  border-radius: 50%;
+  background-color: #fff;
+  top: 0;
+  right: -1.75em;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-address__link > a > span:before {
+    width: 30px;
+    height: 30px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom-address__link > a > span:before {
+    width: 13px;
+    height: 13px;
+  }
+}
+.services .sub-body--fit-golf .showroom-address__link > a > span:after {
+  width: 0.5em;
+  height: 0.5em;
+  border-style: solid;
+  border-top-width: 2px;
+  border-right-width: 2px;
+  border-bottom: none;
+  border-left: none;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  top: 30%;
+  right: -1.25em;
+}
+.services .sub-body--fit-golf .promotion {
+  text-align: center;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .promotion {
+    margin-top: 4em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .promotion {
+    margin-top: 2.5em;
+  }
+}
+.services .sub-body--fit-golf .promotion > span {
+  line-height: 1.5;
+  color: #129044;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(65%, transparent), color-stop(0%, #fff));
+  background: -webkit-linear-gradient(transparent 65%, #fff 0%);
+  background: linear-gradient(transparent 65%, #fff 0%);
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .promotion > span {
+    font-size: 4.3rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .promotion > span {
+    font-size: 1.9rem;
+  }
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom-section {
+    padding: 5em 0 5.71429em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom-section {
+    padding: 3.57143em 0 3.92857em;
+  }
+}
+.services .sub-body--fit-golf .showroom__button {
+  margin: 0 auto;
+}
+@media all and (min-width: 768px) {
+  .services .sub-body--fit-golf .showroom__button {
+    max-width: 39.28571em;
+  }
+}
+@media screen and (max-width: 767px) {
+  .services .sub-body--fit-golf .showroom__button {
+    max-width: 29.64286em;
+  }
+}
