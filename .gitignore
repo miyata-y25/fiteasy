@@ -13,5 +13,5 @@
 /app/public/wp-content/*
 !/app/public/wp-content/themes
 /app/public/wp-content/themes/*
-!/app/public/wp-content/themes/lexyfit
+!/app/public/wp-content/themes/fiteasy
 /app/public/wp-includes/*

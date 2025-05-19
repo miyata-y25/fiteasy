@@ -602,7 +602,7 @@ body {
                 }
             }
             &__ul {
-                max-width: 1332px;
+                max-width: 1080px;
                 margin: 0 auto;
                 display: flex;
                 justify-content: space-between;
@@ -762,7 +762,7 @@ body {
         .sec04-ul {
             display: flex;
             flex-wrap: wrap;
-            max-width: 1322px;
+            max-width: 1080px;
             margin: 8em auto 0;
             @include max-screen($screen-sm) {
                 margin-top: 3em;

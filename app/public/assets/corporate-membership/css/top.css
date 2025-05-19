@@ -686,7 +686,7 @@ body {
           transform: translate(-50%, 0);
 }
 .sec.--03 .sec03-area__ul {
-  max-width: 1332px;
+  max-width: 1080px;
   margin: 0 auto;
   display: -webkit-box;
   display: -webkit-flex;
@@ -896,7 +896,7 @@ body {
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
-  max-width: 1322px;
+  max-width: 1080px;
   margin: 8em auto 0;
 }
 @media screen and (max-width: 768px) {
